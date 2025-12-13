@@ -4,7 +4,7 @@
 <p align="center"> <kbd> $\color{#863535}{\textsf{* Work in progress, will edit soon.}}$<br></kbd>
   <br>
   
-<a href="pronouns.cc/@BASILICA">
+<a href="https://pronouns.cc/@BASILICA">
   * Pronouns.cc <br>
   <a href="https://rentry.co/ax811s">
   * Rentry. <br>
