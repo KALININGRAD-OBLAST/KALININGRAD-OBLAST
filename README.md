@@ -8,6 +8,6 @@
   * Pronouns.cc <br>
   <a href="https://rentry.co/ax811s">
   * Rentry. <br>
-  <a href="https://r7.whiteboardfox.com/gallery/ROSS0CADERE">
+  <a href="https://r2.whiteboardfox.com/gallery/@ROSS0CADERE">
   * Gallery.
 
