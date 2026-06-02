@@ -11,8 +11,8 @@ $\color{#410d69}{\textsf{　　　　ARCHIVE　　　　}}$<br>$\color{#9e4694}{
 <table border="0" align="center">
  <tr align="center">
   <th>
-    $\color{#9e4694}{\textsf{"　Yunyun, the ultimate denpa kokori will take over the world!!　"}}$<br>$\color{#410d69}{\textsf{"　Miku reincarnated; KANGEL ASCENDED, Reimu REAWAKENED !　"}}$<br>
-$\color{#58a181}{\textsf{"　accept Yunyun's signals before it disappears !!~　"}}$
+   $\color{#9e4694}"　Yunyun, \space the \space ultimate \space denpa \space kokori \space will \space take \space over \space the \space world!!　"$<br>$\color{#410d69}"　Miku, \space reincarnated; \space KANGEL \space ASCENDED, \space Reimu \space REAWAKENED! 　"$<br>
+$\color{#58a181}"　Accept \space Yunyun's \space signals \space before \space they \space disappear \space !!~　"$
  </tr>
   </th>
 </table>
