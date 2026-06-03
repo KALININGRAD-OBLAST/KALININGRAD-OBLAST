@@ -1,4 +1,5 @@
-<p align="center"><img width="90%" title="HAPPY PRIDE MONTH FUCKERS!!!" alt="PRIDE" src="https://github.com/user-attachments/assets/b18ca1cb-4019-416b-982a-c5719d3ee8fa" /></p>
+<p align="center"><a href="https://www.tumblr.com/sisterlucifergraphics"><img width="90%" title="@sisterlucifergraphics ON TUMBLR" alt="PRIDE" src="https://github.com/user-attachments/assets/b18ca1cb-4019-416b-982a-c5719d3ee8fa" /></a><br>
+<a href="https://www.tumblr.com/lgbtqiatext"><img width="65%" alt="PRIDE" title="FUCK ALL HOMOPHOBES!!!" src="https://github.com/user-attachments/assets/81962f3f-aebf-4650-805f-aadb6708299e" /></a>
 
 <p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=um8rella&label=+++DENPA++KOKORI+!!+<3+++&labelColor=410d69&countColor=9e4694&style=plastic" /></p>
 <p align="center">$\color{#410d69}{\textsf{E}}$ $\color{#9e4694}{\textsf{X}}$ $\color{#58a181}{\textsf{E}}$ $\color{#9e4694}{\textsf{C}}$ $\color{#410d69}{\textsf{U}}$ $\color{#9e4694}{\textsf{T}}$ $\color{#58a181}{\textsf{I}}$ $\color{#9e4694}{\textsf{O}}$ $\color{#410d69}{\textsf{N}}$
