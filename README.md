@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://rentry.co/ARCHIVEPTEVALUATION" title="FUCK PT FUCK PT FUCK PT"> <sub>PONY TOWN EVALUATION</sub></a><br><br>
 $\color{#c63b3b}  <dom>𐙚</dom>$</p>
   <br>
 <p center align="center"><img src="https://komarev.com/ghpvc/?username=THEBASILICA-username&color=6b9cb3&style=square&label=+++SKETCHES++DRAWN+++&abreviated=true">
@@ -10,7 +9,7 @@ $\color{#c63b3b}  <dom>𐙚</dom>$</p>
 <i>$\color{#c63b3b}{\textsf{間違った人生は 憂い}}$</i>
   <br><br>
 <p align="center">
-<a href="https://re9quiem.atabook.org/">新Book</a>　　<a href="https://pronouns.cc/@ARC">Prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">Gallery</a>
+<a href="https://zombielovejuice.atabook.org/">新Book</a>　　<a href="https://pronouns.cc/@ARC">Prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">Gallery</a>
 </p>
 <p align="right"> <a href="https://postimg.cc/gallery/ydgV46D"><sub>stupid stl-mugshot soundalikes</sub></a><br>
 <sub>credits to dean 4 helping me make these yo</sub>
