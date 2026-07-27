@@ -9,4 +9,3 @@
 <br>
 <p align="right"> <a href="https://postimg.cc/gallery/ydgV46D"><sub>stupid stl-mugshot soundalikes</sub></a><br>
 <sub>credits to dean 4 helping me make these yo</sub><br>
-<br><p align="right"> <a href="https://fluffle.cc/myexplanation"> <sub>EXPLANATION</sub></a></p>
