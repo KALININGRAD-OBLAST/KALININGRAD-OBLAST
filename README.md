@@ -1,9 +1,9 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=DEVILS&labelColor=%23ab8792&countColor=%23a46a87" /></a></p>
 <p align="right"><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></p>
 <p align="center"><img width="35%" align="left" src="https://file.garden/alfntvWA1jk8WLOX/Untitled545_20260821082728.png" /></p>
-<br>
+<br><br><br>
 <p align="center">
-  <img width="20%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled534_20260821074617.png" /><br>
+  <img width="23%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled534_20260821074617.png" /><br>
  ${\text{\color{#b5abaa} I know my love　\color{#ab8792} was different from　\color{#a46a87} yours, but　\color{#994e76} it was love too. }}$ 
  <br>
    ${\text{\color{#b5abaa} Who　\color{#ab8792} could　\color{#a46a87} really blame　\color{#994e76} me? }}$ 
