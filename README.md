@@ -17,6 +17,6 @@
 <img width="8%" src="https://github.com/user-attachments/assets/737f871c-6442-4981-8e6b-07be9b093661" />
 </p>
 <p align="center">
-<a href="https://kirari.cafe/pierrot">kirari.cafe</a>　　<a href="https://zombielovejuice.atabook.org/">新book</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
+<a href="https://fluffle.cc/p%D1%96errot">m/w ivan</a>　　<a href="https://kirari.cafe/pierrot">kirari.cafe</a>　　<a href="https://zombielovejuice.atabook.org/">新book</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
 <br><br><br>
 <p align="center"><sub>stop using Rentry and supporting a <a href="https://postimg.cc/gallery/T3Xdn9J">zionist.</a> Use <a href="https://fluffle.cc/">alternatives</a> instead.</sub></p>
