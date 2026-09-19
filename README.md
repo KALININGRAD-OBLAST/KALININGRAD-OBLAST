@@ -13,7 +13,11 @@
 <br>
 <sub>${\text{\color{#8c0303} 𓄿 𓃀𓃭𓄿𓎢𓈎 𓎢𓉔𓄿𓇋𓈖𓇿𓋴𓇋𓎢𓈎𓃭𓅂 𓆑𓅱𓃭𓃭𓅱𓅃𓋴 𓅓𓅂 𓄿𓃭𓅱𓈖𓎼 }}$</sub><br>
 <sub>${\text{\color{#b58c5c} 	𓅂𓆯𓅂𓈖 𓇋𓆑 𓇋 𓅂𓃭𓇋𓅓𓇋𓈖𓄿𓏏𓅂 𓇋𓏏𓄼 }}$</sub><br>
-<br><br>
+<br>
+      <details align="center">
+    <summary>${\text{\color{#8c0303} }}$</summary>
+      <img width="35%" src="https://github.com/user-attachments/assets/07ebcd1a-bedd-4dd2-b7c1-ce7630d86646" />
+  </details>
 <table align="center">
     <tr></tr>
       <th>
@@ -33,6 +37,8 @@
   <a href="https://github.com/Servwant">Moirail, Beloved</a>ㅤㅤ<a href="https://github.com/thefleshcurtains">Our bro</a>ㅤㅤ<a href="https://github.com/doll9hin">Jace</a>ㅤㅤ<a href="https://github.com/yaoiautism">Morv</a>ㅤㅤ<a href="https://github.com/argshenic">Slater</a>ㅤㅤ<a href="https://github.com/vrysgore">Opera</a>ㅤㅤ<a href="https://github.com/TheOnlyManInTheSky">Franco</a>ㅤㅤ<a href="https://github.com/lordfudanshi">Light</a>ㅤㅤ<a href="https://github.com/minecraftmaxxing">Nine</a>ㅤㅤ<a href="https://github.com/gambling-addict">Ryker</a>ㅤㅤ<a href="https://github.com/Clownfoe">Clownfoe</a>ㅤㅤ<a href="https://github.com/kewlkewlkewl">Kewl</a>ㅤㅤ<a href="https://github.com/raspberry-sprout">Sober</a>ㅤㅤ<a href="https://github.com/2emorse">Dean</a>ㅤㅤ<a href="https://github.com/futamono">Mutt</a>ㅤㅤ<a href="https://github.com/vatrinyasin">Rin</a>ㅤㅤ<a href="https://github.com/therealcastiel">Miles</a>ㅤㅤ<a href="https://github.com/avenueq">Aven</a>ㅤㅤ<a href="https://github.com/necromazeein">Mazee</a>ㅤㅤ<a href="https://github.com/H0llowStrings">Loxia</a>ㅤㅤ<a href="https://github.com/nyankit">Nyan</a>ㅤㅤ<a href="https://github.com/FEAST-OR-FAMINE">Lynn</a>ㅤㅤ<a href="https://github.com/imahatred">Hatred</a>ㅤㅤ<a href="https://github.com/HelloWo3ld">Xiaoyu</a>ㅤㅤ<a href="https://github.com/obscne">Spencer</a>ㅤㅤ<a href="https://github.com/twerkfesting">Tiffany</a>ㅤㅤ<a href="https://github.com/lomdeys">Lomedy</a>ㅤㅤ<a href="https://github.com/phegmatic">Fleur</a>ㅤㅤ<a href="https://github.com/Subkit-kiss">Jiji</a>ㅤㅤ<a href="https://github.com/cchrisker">Murr</a>ㅤㅤ<a href="https://github.com/smokebomb">Ori</a>ㅤㅤ<a href="https://github.com/boosferholic">Miko</a>ㅤㅤ<a href="https://github.com/cxquette">Brad</a>ㅤㅤ<a href="https://github.com/SwAeJuDiN0li">Noli</a>ㅤㅤ<a href="https://github.com/Strawberrymilkshxke">Ren</a>ㅤㅤ+ others oomfs
   </details>
     </th>
-  </table>
+</table>
 <br><br>
 <p align="center"><sub><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></sub></p>
+<table align="center">
+
