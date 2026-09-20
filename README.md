@@ -27,7 +27,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://fluffle.cc/itadakimasu">directory</a>　　<a href="https://kirari.cafe/pierrot">kirari.cafe</a>　　<a href="https://zombielovejuice.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
+<a href="https://fluffle.cc/itadakimasu">directory</a>　　<a href="https://zombielovejuice.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
   <br><br>
     <table align="center">
     <tr></tr>
