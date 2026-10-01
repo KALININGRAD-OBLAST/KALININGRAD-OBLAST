@@ -1,6 +1,6 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%E3%80%80&labelColor=%23466373&countColor=%23466373&labelStyle=upper" /></a></p>
 <br>
-<table border="2" align="right">
+<table width="50px" border="2" align="right">
          <tr>
        <td>
 <p align="center">
