@@ -1,8 +1,9 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%E3%80%80&labelColor=%23466373&countColor=%23466373&labelStyle=upper" /></a></p>
 <br>
 <table border="2" align="right">
-         <tr width="25%">
-       <td width="25%">
+         <th width="25%">
+         <tr>
+       <td>
 <p align="center">
 <sub>${\text{\color{#466373}  一人ずつ生贄に }}$</sub><br>
 <sub>${\text{\color{#283854} 	捧げるお姫様 }}$</sub><br>
@@ -30,6 +31,7 @@
 <br><br>
   </tr>
   </td>
+</th>
   </table>
 </div>
 <div align="left">
