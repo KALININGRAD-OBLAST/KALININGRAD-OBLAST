@@ -1,3 +1,15 @@
+<!---
+ 
+Sign my ata if you see this.
+Mayhaps?
+Thanks to Vexuliii for certain codes i used, go follow him hes cool.. -> https://github.com/Vexuliii
+
+I'm not a pokemon fan i just love pokepasta -_-
+Appreciated if you starred this repo :D
+ . . . Happy viewing or coding
+
+</!-->
+
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%E3%80%80&labelColor=%23466373&countColor=%23466373&labelStyle=upper" /></a></p>
 <br>
 <table border="0" align="right">
