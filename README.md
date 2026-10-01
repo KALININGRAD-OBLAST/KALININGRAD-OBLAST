@@ -33,7 +33,7 @@
   </table>
 </div>
 <div align="left">
-<img width="45%" src="https://media1.tenor.com/m/1iqF8y2Lgu4AAAAd/gold-hypnos-lullaby.gif">
+<img width="35%" src="https://media1.tenor.com/m/1iqF8y2Lgu4AAAAd/gold-hypnos-lullaby.gif">
   <table align="center">
     <tr></tr>
       <th>
