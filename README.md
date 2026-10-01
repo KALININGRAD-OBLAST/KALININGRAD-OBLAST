@@ -1,19 +1,20 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%E3%80%80&labelColor=%23466373&countColor=%23466373&labelStyle=upper" /></a></p>
 <br>
-<table align="right">
+<table border="0" align="right">
 <th>
 <p align="center">
-<sub>${\text{\color{#466373}  一人ずつ生贄に }}$</sub><br>
-<sub>${\text{\color{#283854} 	捧げるお姫様 }}$</sub><br>
+    <br>
+$\color{#466373}{\textsf{一人ずつ生贄に}}$<br>
+$\color{#283854}{\textsf{捧げるお姫様}}$<br>
+    <br>
+$\color{#466373}{\textsf{錆びついた鉄鎖}}$<br>
+$\color{#283854}{\textsf{細い足に固く絡みつき}}$<br>
+    <br>
+$\color{#466373}{\textsf{チェーンソーの唸る音}}$<br>
+$\color{#283854}{\textsf{悲鳴をかき消して}}$<br>
 <br>
-<sub>${\text{\color{#466373}  錆びついた鉄鎖 }}$</sub><br>
-<sub>${\text{\color{#283854} 	細い足に固く絡みつき }}$</sub><br>
-<br>
-<sub>${\text{\color{#466373} 	チェーンソーの唸る音 }}$</sub><br>
-<sub>${\text{\color{#283854} 	悲鳴をかき消して }}$</sub><br>
-<br>
-<sub>${\text{\color{#466373} ”さぁ、 }}$</sub><br>
-<sub>${\text{\color{#283854} 	パーティの時間だよ！” }}$</sub><br>
+$\color{#466373}{\textsf{”さぁ、}}$<br>
+$\color{#283854}{\textsf{パーティの時間だよ！”}}$<br>
 </p>
 <p align="center"><img width="20%" src="https://github.com/user-attachments/assets/fd9a37a1-dc3f-45eb-b0c4-8606381173e8" /></p>
 <table align="center">
@@ -23,10 +24,8 @@
       </th>
 </table>
 </p>
-<br>
 <p align="center">
 <a href="https://fluffle.cc/itadakimasu">directory</a>　　<a href="https://ennead.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
-<br><br>
 </th>
 </table>
 <div align="left">
