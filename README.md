@@ -37,7 +37,7 @@ $\color{#283854}{\textsf{パーティの時間だよ！”}}$<br>
 </table>
 </p>
 <p align="center">
-<a href="https://fluffle.cc/itadakimasu">directory</a>　　<a href="https://ennead.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
+<a href="https://fluffle.cc/itadakimasu">directory</a>　　<a href="https://kaliningrad-oblast.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
 </th>
 </table>
 <div align="left">
