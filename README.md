@@ -27,27 +27,26 @@ $\color{#FFFFFF}{\textsf{Brace for impact!}}$<br>
 $\color{#000000}{\textsf{World swirls, splits, and spins}}$<br>
 $\color{#FFFFFF}{\textsf{And spins and spins, }}$<br>
 <br>
-$\color{#000000}{\textsf{succumb, submit}}$<br>
+$\color{#000000}{\textsf{succumb, }}$<br>
 $\color{#FFFFFF}{\textsf{submit}}$<br>
 </p>
 <p align="center"><img width="20%" src="https://file.garden/alfntvWA1jk8WLOX/ichigo2.png" /></a></p>
 <table align="center">
     <tr></tr>
       <th>
-        ${\text{\color{#FF0000} ARCH\color{#000000}IVE }}$
+        ${\text{\color{#FFFFFF} ARCH\color{#000000}IVE }}$
       </th>
 </table>
 </p>
 <p align="center">
 <a href="https://fluffle.cc/archiver">byi</a>　　<a href="https://kaliningrad-oblast.atabook.org/">ata</a>　　<a href="https://pronouns.cc/@ARC">prns.cc</a>　　<a href="https://r7.whiteboardfox.com/gallery/@ROSS0CADERE">gallery</a>
-  <br><br>
-<sub>${\text{\color{#FFD500}ART \color{#ff1900}BELONGS \color{#000000}TO}}$ <kbd><a href="https://x.com/dookielemon" title="THIS COOL FELLA!!">dookie</a><a href="https://toyhou.se/37658581.daikaku" title="DAIKAKU">lemon</a></kbd></sub>
+  <br>
 </p>
 </th>
 </table>
 <div align="left">
     <p align="center">
-<img width="35%" src="https://file.garden/alfntvWA1jk8WLOX/ichigo3.png">
+<img width="30%" src="https://file.garden/alfntvWA1jk8WLOX/ichigo3.png">
     </p>
   <table align="center">
     <tr></tr>
@@ -87,18 +86,18 @@ $\color{#FFFFFF}{\textsf{submit}}$<br>
   </table>
 </div>
 <details align="center">
-    <summary>${\text{\color{#FFD500}ㅤ𔓐𑇓ㅤ⁠}}$</summary>
+    <summary>${\text{\color{#FFFFFF}ㅤ𔓐𑇓ㅤ⁠}}$</summary>
     <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>ㅤㅤ<a href="https://github.com/pt-of-awesomeness">pt-of-awesomeness</a>ㅤㅤ<a href="https://github.com/compliment-town">compliment-town</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
 </details>
 <p align="center"><sub><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></sub></p>
 <div align="left">
   <p align="center">
-<img width="25%" src="https://file.garden/alfntvWA1jk8WLOX/ichigos4.png">
+<img width="20%" src="https://file.garden/alfntvWA1jk8WLOX/bwhigo.png">
   </p>
 </div>
 <p align="center">
-<details>
- <summary align="center">${\text{\color{#ff1900}ㅤ۶۟ৎㅤ⁠}}$</summary>
+<details align="left">
+ <summary align="center">${\text{\color{#000000}ㅤ۶۟ৎㅤ⁠}}$</summary>
  ${\text{\color{#FFFFFF}hi \color{#37ff00}ems, \color{#009dff}ada \color{#FFFFFF}and \color{#FFD500}coy \color{#FFFFFF} @ @ !! ❤︎⁠}}$<br>
  <img width="50%" src="https://media.discordapp.net/attachments/1557470856597479504/1558213406434263150/IMG_7660.png?ex=6aca9ed2&is=6ac94d52&hm=236696b292321db4a4ffd6999a3511412ec4ea67bbc7230b35a90e828108812e&=&format=webp&quality=lossless&width=768&height=472">
  <br>
