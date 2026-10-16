@@ -98,6 +98,7 @@ $\color{#FFFFFF}{\textsf{submit}}$<br>
 <img width="20%" src="https://file.garden/alfntvWA1jk8WLOX/bwhigo.png">
   </p>
 </div>
+<p align="left"><sub>bleach fans iwvec yall are weird ok</sub></p>
 <p align="center">
 <details align="left">
  <summary align="center">${\text{\color{#000000}ㅤ۶۟ৎㅤ⁠}}$</summary>
