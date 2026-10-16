@@ -1,12 +1,13 @@
 <!---
  
-Sign my ata if you see this.
-Mayhaps?
+Sign my ata~~~ im cute ok? promise.
+:-3
 Thanks to Vexuliii for certain codes i used, go follow him hes cool.. -> https://github.com/Vexuliii
 
-Hi i love pokemon
-Appreciated if you gave this repo a star @ @
- . . . Happy viewing or coding
+Hi ilove bleach
+ichihime dni, ichiruki, grimmichi and similar iwec
+star this github pls thanks ok star it.
+ . . . Happy viewing or coding :looking:
 
 </!-->
 <p align="center"><a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">read this document regarding Copy Town to spread awareness.</a>
