@@ -81,6 +81,8 @@ $\color{#FFFFFF}{\textsf{submit}}$<br>
     <br>
 <a href="https://github.com/infugue">Silver</a>ㅤㅤ<a href="https://github.com/eversleeping-town">Ada</a>ㅤㅤ<a href="https://github.com/HEARTS-GOLD">Ems</a>
    <br>
+   <a href="https://github.com/ghostlygusher">Tyler</a>
+   <br>
 + others oomfs
   </details>
     </th>
