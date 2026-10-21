@@ -1,3 +1,4 @@
+<p align="center"><a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">read this document regarding Copy Town to spread awareness.</a>
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%20&labelColor=%2365586f&countColor=%2365586f" /></a></p>
 <table align="center">
   <th>Ill retheme this sometime
