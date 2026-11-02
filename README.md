@@ -1,9 +1,17 @@
 <p align="center"><a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">read this document regarding Copy Town to spread awareness.</a>
-<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%20&labelColor=%2365586f&countColor=%2365586f" /></a></p>
+<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=rinsagi&labelColor=%23000000&countColor=%23000000" /></a></p>
 <table align="center">
   <th>Im that pokepasta fella
   <br>
   queerest woke ever (gay)
+    <details align="center">
+      <summary>Read</summary>
+      <i>Blue lock fans are required</i>
+      <br>
+      <i>To int with EXTREME caution</i>
+      <br>
+      <i>yall are weird as fuck</i>
+    </details>
   </th>
 <th>
   <details align="center">
