@@ -64,7 +64,7 @@
      <br>
      <a href="https://github.com/Knox-Event">Knox-Event</a>ㅤㅤ<a href="https://github.com/piddlesjet">piddlesjet</a>
      <br>
-     <a href="https://github.com/THENUMBERONESHIPPER">#1 shipper</a>
+     <a href="https://github.com/THENUMBERONESHIPPER">#1 shipper</a>ㅤㅤ<a href="https://github.com/animal-town">animal-town</a>
 </details>
 </th>
   <th>
