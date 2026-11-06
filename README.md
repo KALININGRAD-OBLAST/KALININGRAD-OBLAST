@@ -45,7 +45,7 @@
    <br>
    <a href="https://github.com/ghostlygusher">Tyler</a>ㅤㅤ<a href="https://github.com/frostbittenkisses">Cobalt</a>ㅤㅤ<a href="https://github.com/Duchess-swn">Vivi</a>
   <br>
-<a href="https://github.com/datingdetergent">Emera</a>ㅤㅤ<a href="https://github.com/d0ombringer">Choco</a>
+<a href="https://github.com/datingdetergent">Emera</a>ㅤㅤ<a href="https://github.com/d0ombringer">Choco</a>ㅤㅤ<a href="https://github.com/Fufuyio1206">Fufu
    <br>
 + others oomfs
   </details>
