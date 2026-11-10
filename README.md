@@ -11,11 +11,23 @@
 <sub>$\color{#29d9be}{\textsf{ㅤWithholdingㅤ\color{#0099ad}suchㅤ\color{#005c9e}blindㅤ\color{#002e91}devotionㅤ}}$</sub>
 <br><br><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤ<img width="9%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled593_20261110001817.png">
-<br><br>
+<br>
 <img width="2%" src="https://64.media.tumblr.com/a703da5fa8c99433c335140d77969f2f/6224456d150f81ba-89/s75x75_c1/0363cc729dc1712b2006b722075f8c75a4d3583a.webp"> <img width="15%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled601_20261110224450.png"> <img width="3%" src="https://64.media.tumblr.com/858c03e42ab5630dc32bb344223acbd4/6224456d150f81ba-70/s75x75_c1/1e6a8c905946daacc2a28c2f486d9470fb945326.webp">
+<br>
+<br>
+<p align="center">
+<img align="left" width="5%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled598_20261110215948.png">
+       <table>
+              <td>
+<a href="https://fluffle.cc/archiver">BYI</a>ㅤㅤ<a href="https://kaliningrad-oblast.atabook.org">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@ARC">PRNS</a>ㅤㅤ<a href="https://r7.whiteboardfox.com/gallery/@KALININGRAD_OBLAST">GALLERY</a>
+              </td>
+       </table>
+
+</p>
+<br>
 <table align="center">
 <td>
-<details align="center">
+<details>
 <summary>$\color{#29d9be}{\textsf{☆ㅤㅤO\color{#0099ad}OM\color{#005c9e}F\color{#002e91}Sㅤㅤ}}$</summary>
  <a href="https://github.com/Servwant">Beloved</a>ㅤㅤ<a href="https://github.com/thefleshcurtains">Our bro</a>ㅤㅤ<a href="https://github.com/fleshburn">Jace</a>
 <br>
@@ -67,10 +79,8 @@
 </td>
 </table>
 </div>
-<br><br>
-<div align="center">
-<img align="right" width="7%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled598_20261110215948.png"><br><a href="https://fluffle.cc/archiver">BYI</a>ㅤㅤ<a href="https://kaliningrad-oblast.atabook.org">ATA</a>ㅤㅤ<a href="https://pronouns.cc/@ARC">PRNS.CC</a>ㅤㅤ<a href="https://r7.whiteboardfox.com/gallery/@KALININGRAD_OBLAST">GALLERY</a>
-</div>
+<br>
+</p>
 <br>
 <p align="right">
 ㅤㅤㅤㅤㅤㅤ<table align="right">
