@@ -81,7 +81,7 @@
 </p>
 <br><br>
 <p align="right">
-       <img align="left" width="9%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled593_20261110001817.png">
+       <img align="right" width="9%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled593_20261110001817.png">
 ㅤㅤㅤㅤㅤㅤ<table align="right">
        <td>
 <p align="right"><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></p>
