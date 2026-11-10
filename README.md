@@ -10,7 +10,7 @@
 <br>
 <sub>$\color{#29d9be}{\textsf{ㅤWithholdingㅤ\color{#0099ad}suchㅤ\color{#005c9e}blindㅤ\color{#002e91}devotionㅤ}}$</sub>
 </p>
-<br>
+<br><br>
 <p align="center">
 <img width="2%" src="https://64.media.tumblr.com/a703da5fa8c99433c335140d77969f2f/6224456d150f81ba-89/s75x75_c1/0363cc729dc1712b2006b722075f8c75a4d3583a.webp"> <img width="15%" src="https://file.garden/alfntvWA1jk8WLOX/Untitled601_20261110224450.png"> <img width="3%" src="https://64.media.tumblr.com/858c03e42ab5630dc32bb344223acbd4/6224456d150f81ba-70/s75x75_c1/1e6a8c905946daacc2a28c2f486d9470fb945326.webp"></p>
 <p align="center">
