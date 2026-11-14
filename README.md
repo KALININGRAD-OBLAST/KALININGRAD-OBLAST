@@ -92,7 +92,9 @@
 <summary>ㅤㅤwhipchipsㅤㅤ</summary>
 <br>
 ${\text{\color{#FFFFFF}hi \color{#37ff00}ems, \color{#009dff}ada \color{#FFFFFF}and \color{#FFD500}coy \color{#FFFFFF} @ @ !! ❤︎⁠}}$<br>
- <img width="30%" src="https://media.discordapp.net/attachments/1557470856597479504/1558213406434263150/IMG_7660.png?ex=6aca9ed2&is=6ac94d52&hm=236696b292321db4a4ffd6999a3511412ec4ea67bbc7230b35a90e828108812e&=&format=webp&quality=lossless&width=768&height=472">
+ <img width="30%" src="https://camo.githubusercontent.com/43a4c658981ac91ba438baf3f2da9466b8bbda82be5469c27a89eb1a6225c5bc/68747470733a2f2f692e706f7374696d672e63632f42766352504b79702f53637265656e73686f742d323032362d31302d30392d61742d32312d32342d32332e706e67">
+       <br>
+       <img width="30%" src="https://camo.githubusercontent.com/e2f617b37b854ae7f3347ca5ae00d27c02a305774c160408c2dc195ed4c1009c/68747470733a2f2f692e706f7374696d672e63632f7064574d5a434b472f53637265656e73686f742d323032362d31302d30392d61742d32312d33362d30372e706e67">
  <br>
  hi whipchipfamily.. Much love to all of you <3
  </td>
