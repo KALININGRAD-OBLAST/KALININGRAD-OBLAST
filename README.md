@@ -63,7 +63,7 @@
        <br>
 <a href="https://github.com/MichealKAISER-danny">Danny</a>ㅤㅤ<a href="https://github.com/deepaffection">Shig</a>ㅤㅤ<a href="https://github.com/Remmymy">Remmy</a>
        <br>
-<a href="https://github.com/MichealKAISER-danny">Danny</a>ㅤㅤ<a href="https://github.com/princezammies">Jess</a>ㅤㅤ
+<a href="https://github.com/princezammies">Jess</a>ㅤㅤ
        <br>
 + others oomfs
   </details>
