@@ -40,7 +40,7 @@
     <br>
 <a href="https://github.com/vatrinyasin">Rin</a>ㅤㅤ<a href="https://github.com/therealcastiel">Miles</a>ㅤㅤ<a href="https://github.com/avenueq">Aven</a>
     <br>
-<a href="https://github.com/necromazeein">Mazee</a>ㅤㅤ<a href="https://github.com/H0llowStrings">Loxia</a>ㅤㅤ<a href="https://github.com/nyankit">Nyan</a>
+<a href="https://github.com/necromazeein">Mazee</a>ㅤㅤ<a href="https://github.com/DoveScribe">Loxia</a>ㅤㅤ<a href="https://github.com/nyankit">Nyan</a>
     <br>
 <a href="https://github.com/FEAST-OR-FAMINE">Lynn</a>ㅤㅤ<a href="https://github.com/imahatred">Hatred</a>ㅤㅤ<a href="https://github.com/HelloWo3ld">Xiaoyu</a>
     <br>
@@ -59,6 +59,11 @@
   <br>
 <a href="https://github.com/datingdetergent">Emera</a>ㅤㅤ<a href="https://github.com/d0ombringer">Choco</a>ㅤㅤ<a href="https://github.com/Fufuyio1206">Fufu</a>
    <br>
+<a href="https://github.com/MichealKAISER-danny">Danny</a>ㅤㅤ<a href="https://github.com/infernnus">Jordan</a>ㅤㅤ<a href="https://github.com/yunahcheetahpaws">Connie</a>
+       <br>
+<a href="https://github.com/MichealKAISER-danny">Danny</a>ㅤㅤ<a href="https://github.com/deepaffection">Shig</a>ㅤㅤ<a href="https://github.com/Remmymy">Remmy</a>
+       <br>
+<a href="https://github.com/MichealKAISER-danny">Danny</a>ㅤㅤ<a href="https://github.com/princezammies">Jess</a>
 + others oomfs
   </details>
 </td>
